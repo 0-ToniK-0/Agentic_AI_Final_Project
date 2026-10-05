@@ -1,0 +1,3 @@
+# Runtime files: mailbox, approvals, checkpoints, dry-run board, Graph token cache, generated documents
+data/
+.env

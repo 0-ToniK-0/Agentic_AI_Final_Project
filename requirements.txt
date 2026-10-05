@@ -1,0 +1,18 @@
+# Packages for the notebooks (the same list as the %pip cell at the top of each notebook)
+# and for the command-line app in app/ (which adds langgraph-checkpoint-sqlite).
+langchain>=1.0
+langchain-core>=1.0
+langchain-ollama>=1.0
+langchain-openai>=1.0
+langchain-text-splitters>=1.0
+langchain-mcp-adapters>=0.2
+langgraph>=1.0
+langgraph-checkpoint-sqlite>=3.0
+langsmith>=0.4
+mcp>=1.20
+msal>=1.30
+numpy>=1.26
+pydantic>=2.10
+python-docx>=1.1
+python-dotenv>=1.0
+requests>=2.31

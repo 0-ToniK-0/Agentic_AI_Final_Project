@@ -1,0 +1,5 @@
+# Word documents MCP server (server.py). server.py patches docx-mcp internals,
+# so keep docx-mcp-server pinned and re-run smoke_test.py before upgrading it.
+docx-mcp-server==0.7.4
+# docx-mcp 0.7.4 uses the mcp 1.x API (FastMCP); mcp 2.x breaks it on startup
+mcp==1.30.0
